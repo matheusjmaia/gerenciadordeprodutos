@@ -28,5 +28,9 @@
             <id>MihGalvao</id>
             <name>Milena Galvao</name>
         </developer>
+        <developer>
+            <id>YagoPinheiro</id>
+            <name>Yago Pinheiro</name>
+        </developer>
     </developers>
 </project>
