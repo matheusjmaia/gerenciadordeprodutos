@@ -32,6 +32,17 @@
             <id>YagoPinheiro</id>
             <name>Yago Pinheiro</name>
         </developer>
+        <developer>
+            <id>VLSantos2</id>
+            <name>Vitor </name>
+        </developer>
     </developers>
     <name>gerenciadorprodutos</name>
+    <dependencies>
+    <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.45</version>
+        </dependency>
+    </dependencies>
 </project>
